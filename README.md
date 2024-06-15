@@ -1,0 +1,2 @@
+# Analytics-of-Food-Prices-in-Pakistan-Information-mining-and-retrievall-
+For the analysis of Pakistan food prices over time, we must process the 'wfp dataset. This dataset contains Food Prices data for Pakistan, sourced from the World Food Programme Price Database. The World Food Programme Price Database covers foods such as maize, rice, wheat, beans, fish, and sugar along with other non-food items.
